@@ -94,15 +94,15 @@ document.addEventListener('DOMContentLoaded', () => {
     // QR code configurations
     const qrConfigs = {
         official: {
-            src: 'images/official-qrcode.jpg',
+            src: 'official-qrcode.jpg',
             text: '扫码关注公众号'
         },
         xiaohongshu: {
-            src: 'images/xiaohongshu-qrcode.jpg',
+            src: 'xiaohongshu-qrcode.jpg',
             text: '扫码关注小红书'
         },
         wechat: {
-            src: 'images/qrcode.jpg',
+            src: 'qrcode.jpg',
             text: '扫码添加业务微信'
         }
     };
